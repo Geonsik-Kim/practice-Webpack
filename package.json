@@ -1,8 +1,12 @@
 {
-  "scripts":{
-    "bulid":"webpack"
+  "scripts": {
+    "bulid": "webpack"
   },
   "devDependencies": {
+    "css-loader": "^6.2.0",
+    "file-loader": "^6.2.0",
+    "style-loader": "^3.2.1",
+    "url-loader": "^4.1.1",
     "webpack": "^5.47.1",
     "webpack-cli": "^4.7.2"
   }
